@@ -1,0 +1,6 @@
+E:\Zensar_tech_training\frontend\DotNetWebApps\CalculatorAssignment\CalculatorAssignment\bin\Debug\CalculatorAssignment.dll
+E:\Zensar_tech_training\frontend\DotNetWebApps\CalculatorAssignment\CalculatorAssignment\bin\Debug\CalculatorAssignment.pdb
+E:\Zensar_tech_training\frontend\DotNetWebApps\CalculatorAssignment\CalculatorAssignment\obj\Debug\CalculatorAssignment.csprojAssemblyReference.cache
+E:\Zensar_tech_training\frontend\DotNetWebApps\CalculatorAssignment\CalculatorAssignment\obj\Debug\CalculatorAssignment.csproj.CoreCompileInputs.cache
+E:\Zensar_tech_training\frontend\DotNetWebApps\CalculatorAssignment\CalculatorAssignment\obj\Debug\CalculatorAssignment.dll
+E:\Zensar_tech_training\frontend\DotNetWebApps\CalculatorAssignment\CalculatorAssignment\obj\Debug\CalculatorAssignment.pdb
